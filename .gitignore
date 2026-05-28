@@ -1,0 +1,4 @@
+*-bak/
+*.bak
+*.kicad_sym-bak
+fp-info-cache

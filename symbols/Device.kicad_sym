@@ -339,7 +339,18 @@
 				)
 			)
 		)
-		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 470nF 0603"
+		(property "Datasheet" "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL10B474KA8NNN"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 470nF 25V X7R 0603"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -361,7 +372,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C13967"
+		(property "LCSC" "C1623"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -372,7 +383,29 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21B474KBFNNNE"
+		(property "Manufacturer Part Number" "CL10B474KA8NNNC"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link 1" "https://eu.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10B474KA8NNNC?qs=X6jEic%2FHinB5K8vFqKDbLw%3D%3D"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link 2" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B474KA8NNNC/3887741"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

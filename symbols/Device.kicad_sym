@@ -102,28 +102,6 @@
 				)
 			)
 		)
-		(property "Distributor Link 1" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link 2" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -291,28 +269,6 @@
 				)
 			)
 		)
-		(property "Distributor Link 1" "https://eu.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL21A106KAYNNNE?qs=yOVawPpwOwmTXAd4dJtNjA%3D%3D"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link 2" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KAYNNNE/3888549"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(embedded_fonts no)
 	)
 	(symbol "C_470n_0603"
@@ -384,28 +340,6 @@
 			)
 		)
 		(property "Manufacturer Part Number" "CL10B474KA8NNNC"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link 1" "https://eu.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10B474KA8NNNC?qs=X6jEic%2FHinB5K8vFqKDbLw%3D%3D"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link 2" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B474KA8NNNC/3887741"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -508,28 +442,6 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link 1" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link 2" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -694,28 +606,6 @@
 				)
 			)
 		)
-		(property "Distributor Link 1" "https://eu.mouser.com/ProductDetail/YAGEO/RC0603JR-070RL?qs=2cAdsCoAWRGWyPcuXgGiXQ%3D%3D"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link 2" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-070RL/726675"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(embedded_fonts no)
 	)
 	(symbol "R_5k1_0603"
@@ -787,28 +677,6 @@
 			)
 		)
 		(property "Manufacturer Part Number" "RC0603FR-075K1L"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link 1" "https://eu.mouser.com/ProductDetail/YAGEO/RC0603FR-075K1L?qs=gt6vzsuosg2jUUwxnI2PJQ%3D%3D"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link 2" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-075K1L/727268"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

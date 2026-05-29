@@ -83,28 +83,6 @@
 				)
 			)
 		)
-		(property "Distributor Link 1" "https://eu.mouser.com/ProductDetail/Texas-Instruments/MSPM0G3507SPTR?qs=ST9lo4GX8V1GEI0H4GAJcA%3D%3D"
-			(at 97.536 -75.692 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link 2" "https://www.digikey.nl/nl/products/detail/texas-instruments/MSPM0G3507SPTR/22106901"
-			(at 86.614 -77.978 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC" "C22362630"
 			(at 46.99 -66.548 0)
 			(show_name no)

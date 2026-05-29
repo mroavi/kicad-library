@@ -739,7 +739,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://yageogroup.com/component-documentation/download/specsheet/RC0603FR-07100KL"
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/RS73.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -750,7 +750,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 100K OHM 1% 1/10W 0603"
+		(property "Description" "Thick Film Resistors - SMD 100K OHM .1% 25PPM 1/5W"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -761,7 +761,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "KOA Speer"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -772,7 +772,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C4118779"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -783,7 +783,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "RC0603FR-07100KL"
+		(property "Manufacturer Part Number" "RS73F1JTTD1003B"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
